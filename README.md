@@ -32,7 +32,6 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/postgresql.png" />
-      <h4 align="center">  Influido por: AWK, Smalltalk 80, Lisp, C, C++, Pascal, sed, Unix shell </h4>
     </td>
   </tr>
 </table>
@@ -72,7 +71,7 @@
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./images/line.gif" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/fractal.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
