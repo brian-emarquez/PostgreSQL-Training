@@ -484,7 +484,7 @@ where id_ocupacion = 3
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|32         | [ALTER](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/031%20Borrar%20DELETE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|32         | [ALTER](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/032%20ALTER)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 
