@@ -487,8 +487,6 @@ where id_ocupacion = 3
 |32         | [ALTER](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/032%20ALTER)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
-
-
 ---
 
 ## Paypal Donation
