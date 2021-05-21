@@ -210,7 +210,7 @@ from esquema."PEDIDOS"
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|017        | [FULL JOIN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/015%20AS)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
+|017        | [FULL JOIN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/017%20FULL%20JOIN)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
 
 ---
 
