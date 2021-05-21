@@ -216,6 +216,14 @@ from esquema."PEDIDOS"
 
 ## LEFT JOIN
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/leftjoin.png" />
+    </td>
+  </tr>
+</table>
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |018        | [LEFT JOIN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/018%20LEFT%20JOIN)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
