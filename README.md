@@ -376,7 +376,7 @@ CREATE TABLE employees (
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|028         | [Base de Datos](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/028%20Base%20de%20datos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|028         | [Base de Datos](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/029%20Crear%20Tabla%20SQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 
