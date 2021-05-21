@@ -86,8 +86,8 @@
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  027   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Base de Datos](#Base-de-Datos)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-
+|  027   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Bases de Datos](#Bases-de-Datos)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  028   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Crear Tabla SQL](#Crear-Tabla-SQL)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 
@@ -349,9 +349,9 @@ WHERE D."DEP" = P."DEP")
 |026         | [Subconsulta con EXITS](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/026%20Subconsulta%20con%20EXITS)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
-## Base de Datos
+## Bases de Datos
 
-**ostgreSQL CHECK constraint for new tables**
+**PostgreSQL CHECK constraint for new tables**
 
 ```sql
 DROP TABLE IF EXISTS employees;
@@ -367,7 +367,17 @@ CREATE TABLE employees (
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|026         | [Base de Datos](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/028%20Base%20de%20datos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|027         | [Base de Datos](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/028%20Base%20de%20datos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+
+
+
+## Crear Tabla SQL
+
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|028         | [Base de Datos](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/028%20Base%20de%20datos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+
 
 
 ---
