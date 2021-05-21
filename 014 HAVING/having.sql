@@ -1,0 +1,6 @@
+-- HAVING: reemplazo de where
+
+SELECT "PRODUCTO", SUM("IMPORTE")
+FROM  esquema."PEDIDOS"
+GROUP BY "PRODUCTO"
+HAVING SUM("IMPORTE") > 200
