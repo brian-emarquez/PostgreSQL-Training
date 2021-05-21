@@ -55,8 +55,6 @@
 |  013   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [HAVING](#HAVING)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  014   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [GROUP BY](#GROUP-BY)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  015   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [AS](#AS)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  016   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [INNER JOIN](#INNER-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  017   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [FULL JOIN](#FULL-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 ## Union de Tablas
@@ -64,6 +62,10 @@
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
 |  015   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [AS](#AS)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  016   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [INNER JOIN](#INNER-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  017   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [FULL JOIN](#FULL-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  018   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [LEFT JOIN](#LEFT-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  019   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [RIGHT JOIN](#RIGHT-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 ---
 
@@ -211,6 +213,19 @@ from esquema."PEDIDOS"
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |017        | [FULL JOIN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/017%20FULL%20JOIN)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
+
+## LEFT JOIN
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|017        | [LEFT JOIN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/017%20FULL%20JOIN)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
+
+## RIGHT JOIN
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|017        | [RIGHT JOIN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/017%20FULL%20JOIN)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
+
 
 ---
 
