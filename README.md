@@ -88,7 +88,7 @@
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
 |  027   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Bases de Datos](#Bases-de-Datos)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  028   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Crear Tabla SQL](#Crear-Tabla-SQL)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-
+|  029   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Insert SQL](#Insert-SQL)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 
@@ -367,11 +367,23 @@ CREATE TABLE employees (
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|027         | [Base de Datos](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/028%20Base%20de%20datos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|027         | [Base de Datos](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/027%20Base%20de%20datos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 
 ## Crear Tabla SQL
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/table.png" />
+    </td>
+  </tr>
+</table>
+
+
+
+_Tabla Usuarios_
 
 ```sql
 Create table usuarios(
@@ -384,20 +396,39 @@ Create table usuarios(
 	Fecha_cracion TIMESTAMP  unique NOT NULL
 )
 ```
+_Tabla Ocupaciones_
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/table.png" />
-    </td>
-  </tr>
-</table>
+```sql
+CREATE TABLE ocupaciones(
+	id_ocupaciones serial PRIMARY KEY,
+	tipo_ocupacion VARCHAR(45) not NULL, 
+	Descrpcion VARCHAR(100) not NULL
+)
+```
 
+_Tabla Usuario -ocupaciones (FOREING KEY)_
 
+```sql
+CREATE Table usuario_ocupaciones(
+	id_usuario INTEGER REFERENCES usuarios(id_usuario), -- hace referencia
+	id_ocupacion INTEGER REFERENCES ocupaciones(id_ocupacion)
+) 
+```
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|028         | [Base de Datos](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/029%20Crear%20Tabla%20SQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|028         | [Crear Tabla SQL](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/028%20Crear%20Tabla%20SQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+
+## Insert SQL
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|028         | [Insert SQL](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/028%20Crear%20Tabla%20SQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+
+
+
+
+
 
 
 
