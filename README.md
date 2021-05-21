@@ -463,9 +463,21 @@ where id_usuario = 1
 
 ## DELETE
 
+```sql
+Insert Into ocupaciones(tipo_ocupacion, descripcion)
+values ('programador', 'Reliaza Mantenimiento de lo sistemas')
+
+Insert Into ocupaciones(tipo_ocupacion, descripcion)
+values ('programador 2', 'Reliaza Mantenimiento a la base de datos 2')
+
+/* delete */
+delete from ocupaciones
+where id_ocupacion = 3
+```
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|30         | [DELETE](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/030%20Actualizar%20UPDATE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|30         | [DELETE](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/031%20Borrar%20DELETE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 
