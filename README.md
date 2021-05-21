@@ -279,14 +279,14 @@ FROM esquema."PEDIDOS" -- EXTRAE EL DIA
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|021         | [Formato Hora Fecha](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/007%20WHERE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|021         | [Formato Hora Fecha](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/021%20Formato%20Hora%20Fecha)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 ## Funciones Matematicas
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|022         | [Funciones Matematicas](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/007%20WHERE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|022         | [Funciones Matematicas](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/022%20Funcion%20matematicas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 
