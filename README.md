@@ -257,7 +257,7 @@ from esquema."PEDIDOS"
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|020        | [UNION](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/019%20RIGHT%20LEFT)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
+|020        | [UNION](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/020%20UNION)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
 
 
 ---
