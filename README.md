@@ -89,6 +89,7 @@
 |  027   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Bases de Datos](#Bases-de-Datos)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  028   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Crear Tabla SQL](#Crear-Tabla-SQL)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  029   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Insert SQL](#Insert-SQL)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  030   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [UPDATE](#UPDATE )  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 
@@ -446,7 +447,19 @@ values (1,1)
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|028         | [Insert SQL](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/029%20Insertar%20SQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|029         | [Insert SQL](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/029%20Insertar%20SQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+
+## UPDATE
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|30         | [Insert SQL](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/029%20Insertar%20SQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+
+
+
+
+
+
 
 
 ---
