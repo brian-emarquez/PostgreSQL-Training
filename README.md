@@ -162,7 +162,7 @@ _Cambiar la Direccion del PATH de PostgreSQL_
 ## GROUP-BY
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|013        | [GROUP-BY](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/002%20Usando%20la%20BD)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|013        | [GROUP-BY](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/013%20GROUP%20BY)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 ---
 
