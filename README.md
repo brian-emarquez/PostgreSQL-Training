@@ -423,7 +423,7 @@ CREATE Table usuario_ocupaciones(
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|028         | [Insert SQL](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/028%20Crear%20Tabla%20SQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|028         | [Insert SQL](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/029%20Insertar%20SQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 
