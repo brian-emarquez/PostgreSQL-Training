@@ -37,7 +37,7 @@
 </table>
 
 
-<table align="center"> [PostgreSQL Documentation](https://www.postgresql.org/docs/13/index.html) </table>
+[PostgreSQL Documentation](https://www.postgresql.org/docs/13/index.html)
 
 ## Table of Contents
 
