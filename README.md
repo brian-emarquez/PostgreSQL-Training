@@ -87,7 +87,7 @@ _Cambiar la Direccion del PATH de PostgreSQL_
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|002         | [Usando la DB](https://github.com/BrianMarquez3/Learning-Java/tree/main/ManejoGenerics)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|002         | [Usando la DB](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/002%20Usando%20la%20BD)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 
 
