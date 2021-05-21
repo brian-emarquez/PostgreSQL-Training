@@ -78,6 +78,7 @@
 |  021   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Formato Hora Fecha](#Formato-Hora-Fecha)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| -
 |  022   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Funciones Matematicas](#Funciones-Matematicas)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  023   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Funciones Caracteres](#Funciones-Caracteres)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  024   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Subconsulta Valor numerico](#Subconsulta-Valor-numerico)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 
