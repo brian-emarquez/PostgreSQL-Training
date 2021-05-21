@@ -451,9 +451,15 @@ values (1,1)
 
 ## UPDATE
 
+```sql
+select * from usuarios
+update usuarios set email='brianenrique@mail.com'
+where id_usuario = 1
+```
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|30         | [Insert SQL](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/029%20Insertar%20SQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|30         | [Insert SQL](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/030%20Actualizar%20UPDATE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 
