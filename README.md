@@ -90,7 +90,7 @@
 |  028   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Crear Tabla SQL](#Crear-Tabla-SQL)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  029   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Insert SQL](#Insert-SQL)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  030   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [UPDATE](#UPDATE )  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-
+|  031   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [DELETE](#DELETE )  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 ---
@@ -461,7 +461,11 @@ where id_usuario = 1
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |30         | [Insert SQL](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/030%20Actualizar%20UPDATE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
+## DELETE
 
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|30         | [DELETE](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/030%20Actualizar%20UPDATE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 
