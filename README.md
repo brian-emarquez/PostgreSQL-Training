@@ -160,6 +160,13 @@ _Cambiar la Direccion del PATH de PostgreSQL_
 |012        | [LIKE](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/012%20LIKE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 ## GROUP-BY
+
+```sql
+SELECT "PRODUCTO", SUM("IMPORTE")
+FROM esquema."PEDIDOS"
+GROUP BY "PRODUCTO"
+```
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |013        | [GROUP-BY](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/013%20GROUP%20BY)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
