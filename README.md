@@ -230,6 +230,14 @@ from esquema."PEDIDOS"
 
 ## RIGHT JOIN
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/rightjoin.png" />
+    </td>
+  </tr>
+</table>
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |019        | [RIGHT JOIN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/019%20RIGHT%20LEFT)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
