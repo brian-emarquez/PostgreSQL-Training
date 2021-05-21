@@ -46,7 +46,7 @@
 ---
 
 
-## Instalation
+## Instalacion
 
 <table align="center">
   <tr>
@@ -57,6 +57,26 @@
 </table>
 
 📦 [Install PostgreSQL](https://www.postgresql.org/download/windows/) gDownload the installer for windows<br>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./imageshomePS.png" />
+    </td>
+  </tr>
+</table>
+
+*Correccion del Error PATH*
+
+_Cambiar la Direccion del PATH de PostgreSQL_
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./SolucionErrorPath.png" />
+    </td>
+  </tr>
+</table>
 
 
 ## Paypal Donation
