@@ -41,6 +41,9 @@
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Instalacion](#Instalacion)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Usando la DB](#Usando-la-DB)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  003   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Visualizar Informacion Tablas](#Visualizar-Informacion-Tablas)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+
 
 
 ---
