@@ -300,6 +300,12 @@ FROM esquema."PEDIDOS" -- EXTRAE EL DIA
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |023         | [Funciones Caracteres](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/023%20Funciones%20Caracteres)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
+##  Subconsulta Valor numerico
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|024         | [Subconsulta Valor numerico](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/023%20Funciones%20Caracteres)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+
 
 
 
