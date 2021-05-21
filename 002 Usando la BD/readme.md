@@ -8,7 +8,7 @@ _Cargar la Base de datos_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/cargarBD.png" />
+      <img align="center" style="padding=0;" src="../images/cargarBD.png" />
     </td>
   </tr>
 </table>
@@ -18,7 +18,7 @@ _Cargar la Base de datos_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/cargarBD.png" />
+      <img align="center" style="padding=0;" src="../images/cargarBD.png" />
     </td>
   </tr>
 </table>
