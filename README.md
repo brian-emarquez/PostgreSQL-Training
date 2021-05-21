@@ -80,6 +80,8 @@
 |  023   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Funciones Caracteres](#Funciones-Caracteres)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  024   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Subconsulta Valor numerico](#Subconsulta-Valor-numerico)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  025   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Subconsulta por lista de Valores](#Subconsulta-por-lista-de-Valores)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  026   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Subconsulta con EXITS](#Subconsulta-con-EXITS)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+
 
 
 
@@ -324,6 +326,13 @@ FROM esquema."PEDIDOS" -- EXTRAE EL DIA
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |025         | [Subconsulta por lista de Valores](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/025%20Sunconsulta%20por%20lista%20de%20Valores)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
+
+## Subconsulta con EXITS
+
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|026         | [Subconsulta con EXITS](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/025%20Sunconsulta%20por%20lista%20de%20Valores)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 ---
