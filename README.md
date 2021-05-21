@@ -439,16 +439,14 @@ Insert Into ocupaciones(tipo_ocupacion, descripcion)
 values ('DBA', 'Reliaza Mantenimiento a la base de datos')
 ```
 
+```sql
+Insert into usuario_ocupaciones(id_usuario, id_ocupacion)
+values (1,1)
+```
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |028         | [Insert SQL](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/029%20Insertar%20SQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
-
-
-
-
-
-
 
 
 ---
