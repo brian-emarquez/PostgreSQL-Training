@@ -330,6 +330,16 @@ FROM esquema."PEDIDOS" -- EXTRAE EL DIA
 ## Subconsulta con EXITS
 
 
+```SQL
+-- Subconsulta con EXITS
+
+SELECT "NOMBRE", "APELLIDO1", "DEP"
+from esquema."PERSONAS" as p
+where EXISTS
+(SELECT * FROM esquema."DEPARTAMENTOS" as D
+WHERE D."DEP" = P."DEP")
+```
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |026         | [Subconsulta con EXITS](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/026%20Subconsulta%20con%20EXITS)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
