@@ -303,10 +303,17 @@ FROM esquema."PEDIDOS" -- EXTRAE EL DIA
 
 ##  Subconsulta Valor numerico
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/AVG.png" />
+    </td>
+  </tr>
+</table>
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |024         | [Subconsulta Valor numerico](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/024%20Subconsulta%20Valor%20numerico)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
-
 
 
 
