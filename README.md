@@ -322,7 +322,7 @@ FROM esquema."PEDIDOS" -- EXTRAE EL DIA
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|025         | [Subconsulta por lista de Valores](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/024%20Subconsulta%20Valor%20numerico)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|025         | [Subconsulta por lista de Valores](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/025%20Sunconsulta%20por%20lista%20de%20Valores)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 
