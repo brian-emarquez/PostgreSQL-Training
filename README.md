@@ -351,6 +351,20 @@ WHERE D."DEP" = P."DEP")
 
 ## Base de Datos
 
+**ostgreSQL CHECK constraint for new tables**
+
+```sql
+DROP TABLE IF EXISTS employees;
+CREATE TABLE employees (
+	id SERIAL PRIMARY KEY,
+	first_name VARCHAR (50),
+	last_name VARCHAR (50),
+	birth_date DATE CHECK (birth_date > '1900-01-01'),
+	joined_date DATE CHECK (joined_date > birth_date),
+	salary numeric CHECK(salary > 0)
+);
+```
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |026         | [Base de Datos](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/028%20Base%20de%20datos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
