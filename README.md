@@ -218,13 +218,13 @@ from esquema."PEDIDOS"
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|017        | [LEFT JOIN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/017%20FULL%20JOIN)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
+|018        | [LEFT JOIN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/018%20LEFT%20JOIN)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
 
 ## RIGHT JOIN
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|017        | [RIGHT JOIN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/017%20FULL%20JOIN)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
+|019        | [RIGHT JOIN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/019%20RIGHT%20LEFT)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents) |
 
 
 ---
