@@ -100,65 +100,64 @@ _Cambiar la Direccion del PATH de PostgreSQL_
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|003         | [Visualizar Informacion Tablas](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/002%20Usando%20la%20BD)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|003         | [Visualizar Informacion Tablas](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/003%20Visualizar%20Informacion%20Tablas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 ## SELECT
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|004         | [SELECT](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/002%20Usando%20la%20BD)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|004         | [SELECT](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/004%20SELECT)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 
 ## SELECT DISTINCT
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|005         | [SELECT DISTINCT](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/002%20Usando%20la%20BD)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|005         | [SELECT DISTINCT](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/005%20SELECT%20DISTINCT)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 
 ## SELECT COUNT
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|006         | [SELECT COUNT](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/002%20Usando%20la%20BD)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|006         | [SELECT COUNT](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/006%20SELECT%20COUNT)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
-
-## SELECT COUNT
-
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|007         | [WHERE](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/002%20Usando%20la%20BD)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 ## WHERE
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|008         | [WHERE](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/002%20Usando%20la%20BD)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|007         | [WHERE](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/007%20WHERE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 
 ## ORDER BY
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|009         | [ORDER BY](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/002%20Usando%20la%20BD)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|008         | [ORDER BY](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/008%20ORDER%20BY)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 
 ## LIMIT
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|010         | [LIMIT](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/002%20Usando%20la%20BD)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|009         | [LIMIT](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/009%20LIMIT)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 ## BETWEEN
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|011         | [BETWEEN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/002%20Usando%20la%20BD)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|010         | [BETWEEN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/010%20BETWEEN)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+
+## IN
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|011        | [IN](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/011%20IN)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 ## LIKE
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|012        | [LIKE](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/002%20Usando%20la%20BD)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+|012        | [LIKE](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/012%20LIKE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
 
 ## GROUP-BY
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
