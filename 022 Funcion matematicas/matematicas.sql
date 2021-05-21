@@ -1,1 +1,6 @@
-dfgdfgg
+-- MATEMATICAS
+
+SELECT * FROM esquema."PEDIDOS"
+
+SELECT "IMPORTE"/"CANTIDAD" AS "Precio Unitario"
+FROM esquema."PEDIDOS"

@@ -298,7 +298,7 @@ FROM esquema."PEDIDOS" -- EXTRAE EL DIA
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|023         | [Funciones Caracteres](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/022%20Funcion%20matematicas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|023         | [Funciones Caracteres](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/023%20Funciones%20Caracteres)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 
