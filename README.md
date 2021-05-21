@@ -61,7 +61,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./imageshomePS.png" />
+      <img align="center" style="padding=0;" src="./images/homePS.png" />
     </td>
   </tr>
 </table>
@@ -73,7 +73,7 @@ _Cambiar la Direccion del PATH de PostgreSQL_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./SolucionErrorPath.png" />
+      <img align="center" style="padding=0;" src="./Solucion/ErrorPath.png" />
     </td>
   </tr>
 </table>
