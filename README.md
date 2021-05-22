@@ -537,7 +537,7 @@ where id_ocupacion = 3
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|37        | [Exportar Ficheros](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/036%20Importar%20Ficheros)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|37        | [Exportar Ficheros](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/037%20Export%20Ficheros)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 ---
 
