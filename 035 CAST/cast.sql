@@ -1,0 +1,1 @@
+SELECT cast (5 as varchar )
