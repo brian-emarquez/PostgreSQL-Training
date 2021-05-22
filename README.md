@@ -513,10 +513,25 @@ where id_ocupacion = 3
 
 ## Importar Ficheros
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/import.png" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/import2.png" />
+    </td>
+  </tr>
+</table>
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |36        | [Importar Ficheros](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/036%20Importar%20Ficheros)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
-
 
 
 
