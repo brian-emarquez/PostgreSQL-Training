@@ -498,7 +498,7 @@ where id_ocupacion = 3
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|34        | [COALESCE](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/033%20CASE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
+|34        | [COALESCE](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/034%20COALESCE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
 
 
