@@ -64,12 +64,12 @@
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  015   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [AS](#AS)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  016   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [INNER JOIN](#INNER-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  017   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [FULL JOIN](#FULL-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  018   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [LEFT JOIN](#LEFT-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  019   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [RIGHT JOIN](#RIGHT-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  020   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [UNION](#UNION)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  015   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [AS](#AS)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  016   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [INNER JOIN](#INNER-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  017   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [FULL JOIN](#FULL-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  018   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [LEFT JOIN](#LEFT-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  019   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [RIGHT JOIN](#RIGHT-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  020   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [UNION](#UNION)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 ## Funciones 
 
