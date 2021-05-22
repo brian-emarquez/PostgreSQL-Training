@@ -535,6 +535,16 @@ where id_ocupacion = 3
 
 ## Exportar Ficheros
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/exportar.png" />
+    </td>
+  </tr>
+</table>
+
+
+
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |37        | [Exportar Ficheros](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/037%20Export%20Ficheros)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
