@@ -549,11 +549,36 @@ where id_ocupacion = 3
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |37        | [Exportar Ficheros](https://github.com/BrianMarquez3/PostgreSQL-Training/tree/main/037%20Export%20Ficheros)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Funciones) |
 
+
+---
+
+## Books
+
+<table>
+  <tr>
+      <td>Server</td>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Editorial</td>
+      <td>ISBN</td>
+      <td>Link</td>
+  </tr>
+
+   <tr>
+      <td>OneDrive</td>
+      <td>Mastering PostgreSQL 13</td>
+      <td>Paul Deitel, Harvey Deitel</td>
+      <td>Packt</td>
+      <td>N 978-1-80056-749-8</td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EcpSbHNINblIpq1LeicnzJcBigUclTaGFQAmzhbyiwgXQg?e=FadSor">Mastering PostgreSQL 13</a></td>
+  </tr>
+
+</table>
+
 ---
 
 ## Paypal Donation
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
-
 
 ---
 
