@@ -552,6 +552,19 @@ where id_ocupacion = 3
 
 ---
 
+## Ubuntu
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/ubuntu.jpg" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## Books
 
 <table>
