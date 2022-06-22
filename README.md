@@ -562,6 +562,10 @@ where id_ocupacion = 3
   </tr>
 </table>
 
+- Install Terminal
+
+Install Terminal  - [Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
+
 Install Terminal - [PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
 
 
