@@ -64,39 +64,39 @@
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  015   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [AS](#AS)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  016   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [INNER JOIN](#INNER-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  017   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [FULL JOIN](#FULL-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  018   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [LEFT JOIN](#LEFT-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  019   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [RIGHT JOIN](#RIGHT-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  020   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [UNION](#UNION)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  016   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [AS](#AS)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  017   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [INNER JOIN](#INNER-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  018   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [FULL JOIN](#FULL-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  019   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [LEFT JOIN](#LEFT-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  020   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [RIGHT JOIN](#RIGHT-JOIN)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  021   |:heavy_check_mark: |<img src="https://media.giphy.com/media/6cnivQlC5qOyC8srhm/giphy.gif" width="25px"> | [UNION](#UNION)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 ## Funciones 
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  021   |:heavy_check_mark: |<img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="25px"> | [Formato Hora Fecha](#Formato-Hora-Fecha)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  022   |:heavy_check_mark: |<img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="25px"> | [Funciones Matematicas](#Funciones-Matematicas)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  023   |:heavy_check_mark: |<img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="25px"> | [Funciones Caracteres](#Funciones-Caracteres)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  024   |:heavy_check_mark: |<img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="25px"> | [Subconsulta Valor numerico](#Subconsulta-Valor-numerico)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  025   |:heavy_check_mark: |<img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="25px"> | [Subconsulta por lista de Valores](#Subconsulta-por-lista-de-Valores)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  026   |:heavy_check_mark: |<img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="25px"> | [Subconsulta con EXITS](#Subconsulta-con-EXITS)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  022   |:heavy_check_mark: |<img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="25px"> | [Formato Hora Fecha](#Formato-Hora-Fecha)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  023   |:heavy_check_mark: |<img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="25px"> | [Funciones Matematicas](#Funciones-Matematicas)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  024   |:heavy_check_mark: |<img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="25px"> | [Funciones Caracteres](#Funciones-Caracteres)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  025   |:heavy_check_mark: |<img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="25px"> | [Subconsulta Valor numerico](#Subconsulta-Valor-numerico)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  026   |:heavy_check_mark: |<img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="25px"> | [Subconsulta por lista de Valores](#Subconsulta-por-lista-de-Valores)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  027   |:heavy_check_mark: |<img src="https://media.giphy.com/media/9DaWtzJV7WZpxQVzNz/giphy.gif" width="25px"> | [Subconsulta con EXITS](#Subconsulta-con-EXITS)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 ## Base de Datos
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  027   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Bases de Datos](#Bases-de-Datos)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  028   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Crear Tabla SQL](#Crear-Tabla-SQL)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  029   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Insert SQL](#Insert-SQL)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  030   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [UPDATE](#UPDATE )  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  031   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [DELETE](#DELETE )  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  032   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [ALTER](#ALTER )  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  033   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [CASE](#CASE )  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  034   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [COALESCE](#COALESCE)  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  035   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [CAST](#CAST)  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  036   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Importar Ficheros](#Importar-Ficheros)  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  037   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Exportar Ficheros](#Exportar-Ficheros)  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  028   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Bases de Datos](#Bases-de-Datos)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  029   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Crear Tabla SQL](#Crear-Tabla-SQL)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  030   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Insert SQL](#Insert-SQL)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  031   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [UPDATE](#UPDATE )  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  032   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [DELETE](#DELETE )  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  033   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [ALTER](#ALTER )  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  034   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [CASE](#CASE )  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  035   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [COALESCE](#COALESCE)  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  036   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [CAST](#CAST)  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  037   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Importar Ficheros](#Importar-Ficheros)  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  038   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [Exportar Ficheros](#Exportar-Ficheros)  | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 ---
 
