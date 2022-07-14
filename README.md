@@ -585,7 +585,6 @@ También puede crear un usuario con la siguiente instrucción SQL:
 CREATE ROLE myuser WITH LOGIN PASSWORD 'secret_passwd';
 ```
 
-
 ## Books
 
 <table>
