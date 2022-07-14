@@ -569,6 +569,23 @@ Install Terminal  - [Digitalocean](https://www.digitalocean.com/community/tutori
 Install Terminal - [PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
 
 
+* Comandos
+
+_Crear Usuario_
+
+Para crear un usuario de PostgreSQL, utilice la siguiente instrucción SQL:
+
+```sql
+CREATE USER myuser WITH PASSWORD 'secret_passwd';
+```
+
+También puede crear un usuario con la siguiente instrucción SQL:
+
+```sql
+CREATE ROLE myuser WITH LOGIN PASSWORD 'secret_passwd';
+```
+
+
 ## Books
 
 <table>
