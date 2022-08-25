@@ -36,9 +36,7 @@
   </tr>
 </table>
 
-```sql
 [PostgreSQL Documentation](https://www.postgresql.org/docs/13/index.html)
-```
 
 ## Table of Contents
 
@@ -65,7 +63,9 @@
 
 _Restaurar Base de Datos_ 
 
+```sql
 pg_restore -h 127.0.0.1 -p 5432 -U api_caja_test -d api_caja_tes < backup1712021.sql
+```
 
 ## Union de Tablas
 
