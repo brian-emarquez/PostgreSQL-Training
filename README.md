@@ -36,8 +36,9 @@
   </tr>
 </table>
 
-
+```sql
 [PostgreSQL Documentation](https://www.postgresql.org/docs/13/index.html)
+```
 
 ## Table of Contents
 
@@ -59,6 +60,12 @@
 |  014   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [GROUP BY](#GROUP-BY)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  015   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [AS](#AS)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
+
+## Comandos
+
+_Restaurar Base de Datos_ 
+
+pg_restore -h 127.0.0.1 -p 5432 -U api_caja_test -d api_caja_tes < backup1712021.sql
 
 ## Union de Tablas
 
