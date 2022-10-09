@@ -59,15 +59,18 @@
 |  015   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [AS](#AS)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
-## Comandos Ubuntu Terminal
+## Comandos Ubuntu Terminal (Intallation)
+
+```bash
 
 _Install Postgres_
 
-Install ubuntu Terminal Postgres (https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
+[Install ubuntu Terminal Postgres](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
+
 
 _Eliminar Postgres_
 
-Uninstall ubuntu Terminal Postgres (https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
+[Uninstall ubuntu Terminal Postgres](https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
 
 _Restaurar Base de Datos_ 
 
@@ -124,7 +127,7 @@ Enter password: ...
 
 ---
 
-## Instalacion
+## Instalacion Windows
 
 <table align="center">
   <tr>
@@ -134,7 +137,7 @@ Enter password: ...
   </tr>
 </table>
 
-📦 [Install PostgreSQL](https://www.postgresql.org/download/windows/) gDownload the installer for windows<br>
+📦 [Install PostgreSQL](https://www.postgresql.org/download/windows/) Download the installer for windows <br>
 
 <table align="center">
   <tr>
