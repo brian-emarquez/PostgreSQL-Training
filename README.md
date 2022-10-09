@@ -99,7 +99,7 @@
 
 ---
 
-## Instalacion Windows
+## Instalacion Windows (Intallation)
 
 <table align="center">
   <tr>
@@ -109,7 +109,7 @@
   </tr>
 </table>
 
-📦 [Install PostgreSQL](https://www.postgresql.org/download/windows/) Download the installer for windows <br>
+⚙️ [Install PostgreSQL](https://www.postgresql.org/download/windows/) Download the installer for windows <br>
 
 <table align="center">
   <tr>
@@ -132,7 +132,7 @@ _Cambiar la Direccion del PATH de PostgreSQL_
 </table>
 
 
-## Comandos Ubuntu Terminal (Intallation)
+## Instalacion Linux - Ubuntu (Intallation/Comandos)
 
 _Install Postgres_
 
