@@ -59,34 +59,6 @@
 |  015   |:heavy_check_mark: |<img src="https://media.giphy.com/media/W08c7xFA4ryiC90jNf/giphy.gif" width="25px"> | [AS](#AS)   | ✔️    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
-## Comandos Ubuntu Terminal (Intallation)
-
-```bash
-
-_Install Postgres_
-
-[Install ubuntu Terminal Postgres](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
-
-
-_Eliminar Postgres_
-
-[Uninstall ubuntu Terminal Postgres](https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
-
-_Restaurar Base de Datos_ 
-
-```sql
-pg_restore -h 127.0.0.1 -p 5432 -U api_caja_test -d api_caja_tes < backup1712021.sql
-```
-
-_Crear Contraseña Postgres_
-
-```sql
-$ sudo -u postgres psql
-\password
-Enter password: ...
-```
-
-
 ## Union de Tablas
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
@@ -158,6 +130,32 @@ _Cambiar la Direccion del PATH de PostgreSQL_
     </td>
   </tr>
 </table>
+
+
+## Comandos Ubuntu Terminal (Intallation)
+
+_Install Postgres_
+
+[Install ubuntu Terminal Postgres](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
+
+
+_Eliminar Postgres_
+
+[Uninstall ubuntu Terminal Postgres](https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
+
+_Restaurar Base de Datos_ 
+
+```sql
+pg_restore -h 127.0.0.1 -p 5432 -U api_caja_test -d api_caja_tes < backup1712021.sql
+```
+
+_Crear Contraseña Postgres_
+
+```sql
+sudo -u postgres psql
+\password
+Enter password: ...
+```
 
 ## Usando la DB
 
