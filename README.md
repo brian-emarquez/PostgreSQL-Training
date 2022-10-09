@@ -157,6 +157,17 @@ sudo -u postgres psql
 Enter password: ...
 ```
 
+_Crear User Postgres_
+
+[Como crear usuarios en PostgreSQL](https://www.todopostgresql.com/crear-usuarios-en-postgresql/)
+
+```sql
+CREATE USER newuser WITH PASSWORD 'password';
+GRANT ALL PRIVILEGES ON DATABASE database to newuser;
+```
+
+
+
 ## Usando la DB
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
