@@ -151,7 +151,7 @@ pg_restore -h 127.0.0.1 -p 5432 -U api_caja_test -d api_caja_tes < backup1712021
 
 _Crear Contraseña Postgres_
 
-```sql
+```bash
 sudo -u postgres psql
 \password
 Enter password: ...
