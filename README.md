@@ -149,6 +149,12 @@ _Restaurar Base de Datos_
 pg_restore -h 127.0.0.1 -p 5432 -U api_caja_test -d api_caja_tes < backup1712021.sql
 ```
 
+_Buckup Base de Datos_
+
+```sql
+pg_dump -U postgres -W -h 127.0.0.1 p2p_api > p2p1.sql
+```
+
 _Crear Contraseña Postgres_
 
 ```bash
