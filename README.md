@@ -100,6 +100,7 @@
 ---
 
 ## Instalacion Windows (Installation)
+⚙️ [Install PostgreSQL](https://www.postgresql.org/download/windows/) Download the installer for windows <br>
 
 <table align="center">
   <tr>
@@ -108,8 +109,6 @@
     </td>
   </tr>
 </table>
-
-⚙️ [Install PostgreSQL](https://www.postgresql.org/download/windows/) Download the installer for windows <br>
 
 <table align="center">
   <tr>
