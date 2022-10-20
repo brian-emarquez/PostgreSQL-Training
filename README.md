@@ -99,7 +99,7 @@
 
 ---
 
-## Instalacion(Installation)
+## Instalacion
 ⚙️ [Install PostgreSQL Windows](https://www.postgresql.org/download/windows/) Download the installer for windows <br>
 ⚙️ [Install PostgreSQL Linux ](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es) Cómo instalar y utilizar PostgreSQL en Ubuntu
 
