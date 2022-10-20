@@ -142,7 +142,7 @@ _Eliminar Postgres_
 
 [Uninstall ubuntu Terminal Postgres](https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
 
-_Restaurar Base de Datos_ 
+_Restore Base de Datos_ 
 
 ```sql
 pg_restore -h 127.0.0.1 -p 5432 -U user -d database < backup.sql
