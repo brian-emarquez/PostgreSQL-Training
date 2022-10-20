@@ -119,8 +119,7 @@
   </tr>
 </table>
 
-*Correccion del Error PATH*
-
+**Correccion del Error PATH**
 _Cambiar la Direccion del PATH de PostgreSQL_
 
 <table align="center">
