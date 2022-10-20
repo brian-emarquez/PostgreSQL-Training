@@ -99,7 +99,7 @@
 
 ---
 
-## Instalacion Windows (Intallation)
+## Instalacion Windows (Installation)
 
 <table align="center">
   <tr>
@@ -146,13 +146,14 @@ _Eliminar Postgres_
 _Restaurar Base de Datos_ 
 
 ```sql
-pg_restore -h 127.0.0.1 -p 5432 -U api_caja_test -d api_caja_tes < backup1712021.sql
+pg_restore -h 127.0.0.1 -p 5432 -U user -d database < backup.sql
 ```
 
 _Backup Base de Datos_
 
 ```sql
-pg_dump -U postgres -W -h 127.0.0.1 p2p_api > p2p1.sql
+pg_dump -U postgres -W -h 127.0.0.1 database > backup.sql
+psql -h 127.0.0.1 -p 5432 -U user -W -d dabatase < backup.sql
 ```
 
 _Crear Contraseña Postgres_
