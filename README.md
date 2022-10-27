@@ -146,13 +146,13 @@ _Restore Base de Datos_
 
 ```sql
 pg_restore -h 127.0.0.1 -p 5432 -U user -d database < backup.sql
+psql -h 127.0.0.1 -p 5432 -U user -W -d dabatase < backup.sql
 ```
 
 _Backup Base de Datos_
 
 ```sql
 pg_dump -U postgres -W -h 127.0.0.1 database > backup.sql
-psql -h 127.0.0.1 -p 5432 -U user -W -d dabatase < backup.sql
 ```
 
 _Crear Contraseña Postgres_
