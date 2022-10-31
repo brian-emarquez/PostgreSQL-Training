@@ -176,6 +176,9 @@ CREATE USER newuser WITH PASSWORD 'password';
 GRANT ALL PRIVILEGES ON DATABASE database to newuser;
 ```
 
+_Borrar user Postgres_
+
+* [Como crear usuarios en PostgreSQL](https://codeandoando.com/usuarios-y-permisos-en-postgresql/)
 
 
 ## Usando la DB
