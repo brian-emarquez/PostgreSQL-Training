@@ -134,7 +134,7 @@ _Cambiar la Direccion del PATH de PostgreSQL_
 
 ## Instalacion Linux - Ubuntu (Intallation/Comandos)
 
-* (Comandos consola Postgres)[https://apuntes-snicoper.readthedocs.io/es/latest/programacion/postgresql/comandos_consola_psql.html] 
+* [Comandos consola Postgres](https://apuntes-snicoper.readthedocs.io/es/latest/programacion/postgresql/comandos_consola_psql.html) 
 
 _Install Postgres_
 
