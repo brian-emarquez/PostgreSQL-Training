@@ -138,12 +138,12 @@ _Cambiar la Direccion del PATH de PostgreSQL_
 
 _Install Postgres_
 
-[Install ubuntu Terminal Postgres](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
+* [Install ubuntu Terminal Postgres](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
 
 
 _Eliminar Postgres_
 
-[Uninstall ubuntu Terminal Postgres](https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
+* [Uninstall ubuntu Terminal Postgres](https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
 
 _Restore Base de Datos_ 
 
