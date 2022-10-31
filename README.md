@@ -100,6 +100,7 @@
 ---
 
 ## Downloads
+
 ⚙️ [Install PostgreSQL Windows](https://www.postgresql.org/download/windows/) Download the installer for windows <br>
 ⚙️ [Install PostgreSQL Linux ](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es) How to install and use PostgreSQL on Ubuntu
 
@@ -165,7 +166,10 @@ Enter password: ...
 
 _Crear User Postgres_
 
-[Como crear usuarios en PostgreSQL](https://www.todopostgresql.com/crear-usuarios-en-postgresql/)
+* [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es/)
+
+* [Como crear usuarios en PostgreSQL](https://www.todopostgresql.com/crear-usuarios-en-postgresql/)
+
 
 ```sql
 CREATE USER newuser WITH PASSWORD 'password';
