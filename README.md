@@ -168,7 +168,7 @@ Enter password: ...
 
 _Crear User Postgres_
 
-* [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es/)
+* [DigitalOcean](https://www.digitalocean.com/community/tutorials/como-configurar-django-con-postgres-nginx-y-gunicorn-en-ubuntu-18-04-es)
 
 * [Como crear usuarios en PostgreSQL](https://www.todopostgresql.com/crear-usuarios-en-postgresql/)
 
