@@ -195,8 +195,14 @@ $ pg_lsclusters
 Migrating data from SQlite to PostgreSQL. Shift database from SQlite to PostgreSQL in Django
 [Migrating data from SQlite to PostgreSQL | Django](https://www.youtube.com/watch?v=BGEEzjGadYI&ab_channel=StudyGyaan)
 
+_Data.json_
+
+```sql
+python manage.py dumpdata > data.json
+```
 
 _Example Setting Django_
+
 ```sql
 DATABASES = {
     'default': {
@@ -209,6 +215,27 @@ DATABASES = {
     }
 }
 ```
+
+_Python Django Shell_
+
+```sql
+python manage.py migrate --run-syncdb
+```
+
+```sql
+python manage.py shell
+```
+
+```sql
+python manage.py shell
+```
+
+```sql
+from django.contrib.contenttypes.models import ContentType
+ContentType.objects.all().delete()
+exit()
+```
+
 
 ---
 
