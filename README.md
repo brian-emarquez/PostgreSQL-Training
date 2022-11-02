@@ -136,29 +136,29 @@ _Cambiar la Direccion del PATH de PostgreSQL_
 
 * [Comandos consola Postgres](https://apuntes-snicoper.readthedocs.io/es/latest/programacion/postgresql/comandos_consola_psql.html) 
 
-_Install Postgres_
+**Install Postgres**
 
 * [Install ubuntu Terminal Postgres](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
 
 
-_Eliminar Postgres_
+**Eliminar Postgres**
 
 * [Uninstall ubuntu Terminal Postgres](https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
 
-_Restore Base de Datos_ 
+**Restore Base de Datos**
 
 ```sql
 pg_restore -h 127.0.0.1 -p 5432 -U user -d database < backup.sql
 psql -h 127.0.0.1 -p 5432 -U user -W -d dabatase < backup.sql
 ```
 
-_Backup Base de Datos_
+**Backup Base de Datos**
 
 ```sql
 pg_dump -U postgres -W -h 127.0.0.1 database > backup.sql
 ```
 
-_Crear Contraseña Postgres_
+**Crear Contraseña Postgres**
 
 ```bash
 sudo -u postgres psql
@@ -166,7 +166,7 @@ sudo -u postgres psql
 Enter password: ...
 ```
 
-_Crear User Postgres_
+**Crear User Postgres**
 
 * [DigitalOcean](https://www.digitalocean.com/community/tutorials/como-configurar-django-con-postgres-nginx-y-gunicorn-en-ubuntu-18-04-es)
 
@@ -178,11 +178,11 @@ CREATE USER newuser WITH PASSWORD 'password';
 GRANT ALL PRIVILEGES ON DATABASE database to newuser;
 ```
 
-_Borrar user Postgres_
+**Borrar user Postgres**
 
 * [Como crear usuarios en PostgreSQL](https://codeandoando.com/usuarios-y-permisos-en-postgresql/)
 
-_Información sobre la Configuración_
+**Información sobre la Configuración**
 
 <P> La utilidad postgresql pg_lsclusters muestra información sobre la configuración y el estado de todos los clusters, incluyendo el número de puerto. </P>
 
