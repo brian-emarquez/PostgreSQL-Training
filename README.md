@@ -189,6 +189,27 @@ GRANT ALL PRIVILEGES ON DATABASE database to newuser;
 ```sql
 $ pg_lsclusters
 ```
+
+**Migrar de SQLite a Postgresql - Django**
+
+Migrating data from SQlite to PostgreSQL. Shift database from SQlite to PostgreSQL in Django
+[Migrating data from SQlite to PostgreSQL | Django](https://www.youtube.com/watch?v=BGEEzjGadYI&ab_channel=StudyGyaan)
+
+
+_Example Setting Django_
+```sql
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'p2phelp_db',
+        'USER': 'briandb',
+        'PASSWORD': 'briandb',
+        'HOST': 'localhost',
+        'PORT': '5432'
+    }
+}
+```
+
 ---
 
 ## Usando la DB
