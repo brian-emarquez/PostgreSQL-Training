@@ -186,10 +186,10 @@ _Información sobre la Configuración_
 
 <P> La utilidad postgresql pg_lsclusters muestra información sobre la configuración y el estado de todos los clusters, incluyendo el número de puerto. </P>
 
-
-
-* [Como crear usuarios en PostgreSQL](https://codeandoando.com/usuarios-y-permisos-en-postgresql/)
-
+```sql
+$ pg_lsclusters
+```
+---
 
 ## Usando la DB
 
