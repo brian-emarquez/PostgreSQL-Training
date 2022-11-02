@@ -236,6 +236,9 @@ ContentType.objects.all().delete()
 exit()
 ```
 
+```sql
+python manage.py loaddata data.json
+```
 
 ---
 
