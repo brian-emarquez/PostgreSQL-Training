@@ -144,6 +144,7 @@ _Cambiar la Direccion del PATH de PostgreSQL_
 **Eliminar Postgres**
 
 * [Uninstall ubuntu Terminal Postgres](https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
+* [Eliminar Postgres Completamente](https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
 
 **Restore Base de Datos**
 
