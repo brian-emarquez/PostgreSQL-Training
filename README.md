@@ -138,8 +138,9 @@ _Cambiar la Direccion del PATH de PostgreSQL_
 
 **Install Postgres**
 
-* [Install ubuntu Terminal Postgres](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
+* [Install Postgres en Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
 
+* [Install Dcoker Compose](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
 
 **Eliminar Postgres**
 
