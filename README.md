@@ -184,7 +184,7 @@ GRANT ALL PRIVILEGES ON DATABASE database to newuser;
 
 * [Como crear usuarios en PostgreSQL](https://codeandoando.com/usuarios-y-permisos-en-postgresql/)
 
-**Información sobre la Configuración**
+**Configuration Information**
 
 <P> La utilidad postgresql pg_lsclusters muestra información sobre la configuración y el estado de todos los clusters, incluyendo el número de puerto. </P>
 
@@ -192,7 +192,7 @@ GRANT ALL PRIVILEGES ON DATABASE database to newuser;
 $ pg_lsclusters
 ```
 
-**Migrar de SQLite a Postgresql - Django**
+**Migrating from SQLite to Postgresql - Django**
 
 Migrating data from SQlite to PostgreSQL. Shift database from SQlite to PostgreSQL in Django
 [Migrating data from SQlite to PostgreSQL | Django](https://www.youtube.com/watch?v=BGEEzjGadYI&ab_channel=StudyGyaan)
