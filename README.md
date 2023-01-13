@@ -138,13 +138,15 @@ _Cambiar la Direccion del PATH de PostgreSQL_
 
 **Install Postgres**
 
-* [Install Postgres en Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
+* [Install Postgres Actual en Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
+
+* [Install Postgres 14 en Ubuntu](https://techviewleo.com/how-to-install-postgresql-database-on-ubuntu/)
 
 * [Install Doker Compose](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
 
 **Delete Postgres**
 
-* [Uninstall ubuntu Terminal Postgres](https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
+* [Uninstall ubuntu Terminal Postgres Simple](https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
 * [Eliminar Postgres Completamente](https://www.enmimaquinafunciona.com/pregunta/30210/como-quitar-a-postgres-de-mi-instalacion)
 
 **Restore Database**
