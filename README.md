@@ -31,7 +31,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/postgresql.png" />
+      <img align="center" style="padding=0;" src="./images/PostgreSQL-Architecture.jpg" />
     </td>
   </tr>
 </table>
