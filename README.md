@@ -1,4 +1,4 @@
-<h2 align="center"> PostgreSQL Training </h2>
+<h2 align="center"> 🐘 PostgreSQL Training </h2>
 
 <p align="center">
   
