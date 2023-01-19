@@ -182,6 +182,12 @@ CREATE USER newuser WITH PASSWORD 'password';
 GRANT ALL PRIVILEGES ON DATABASE database to newuser;
 ```
 
+**Rename a database**
+
+```sql
+ALTER DATABASE olddbname RENAME TO newdbname;
+```
+
 **Delete user postgres**
 
 * [Como crear usuarios en PostgreSQL](https://codeandoando.com/usuarios-y-permisos-en-postgresql/)
