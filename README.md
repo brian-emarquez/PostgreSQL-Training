@@ -239,10 +239,6 @@ python manage.py shell
 ```
 
 ```sql
-python manage.py shell
-```
-
-```sql
 from django.contrib.contenttypes.models import ContentType
 ContentType.objects.all().delete()
 exit()
