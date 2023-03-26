@@ -172,6 +172,12 @@ sudo -u postgres psql
 Enter password: ...
 ```
 
+**Inicialisar Postgres**
+
+```bash
+ service postgresql start
+ ```
+
 **Create Postgres User**
 
 * [DigitalOcean](https://www.digitalocean.com/community/tutorials/como-configurar-django-con-postgres-nginx-y-gunicorn-en-ubuntu-18-04-es)
