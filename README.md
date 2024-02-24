@@ -173,7 +173,7 @@ sudo -u postgres psql
 Enter password: ...
 ```
 
-**Inicialisar Postgres**
+**Inicializar Postgres - Ubuntu terminal**
 
 ```bash
  service postgresql start
