@@ -185,6 +185,30 @@ Enter password: ...
  service postgresql stop
  ```
 
+ **Usar Postgres**
+
+_Cambie a la cuenta de postgres_
+ ```bash
+sudo -i -u postgres
+ ```
+
+_Acceder de inmediato a una línea de comandos de PostgresSQL_
+```bash
+psql
+```
+
+_ver base de datos_
+_Acceder de inmediato a una línea de comandos de PostgresSQL_
+```bash
+\l
+```
+
+_entrar a la base de datos_
+_Acceder de inmediato a una línea de comandos de PostgresSQL_
+```bash
+\dt nasededatos
+```
+
 **Create Postgres User**
 
 * [DigitalOcean](https://www.digitalocean.com/community/tutorials/como-configurar-django-con-postgres-nginx-y-gunicorn-en-ubuntu-18-04-es)
