@@ -205,7 +205,7 @@ _Acceder de inmediato a una línea de comandos de PostgresSQL_
 _entrar a la base de datos_
 _Acceder de inmediato a una línea de comandos de PostgresSQL_
 ```bash
-\dt nasededatos
+\dt <nasededatos>
 ```
 
 **Create Postgres User**
