@@ -132,13 +132,6 @@ _Cambiar la Direccion del PATH de PostgreSQL_
   </tr>
 </table>
 
-_Iniciar Postgres - Ubuntu_
-
-```sql
-sudo service postgresql start
-sudo service postgresql status
-```
-
 ## Linux installation - Ubuntu (Intallation/Comandos)
 
 * [Comandos consola Postgres](https://apuntes-snicoper.readthedocs.io/es/latest/programacion/postgresql/comandos_consola_psql.html) 
