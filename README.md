@@ -176,11 +176,7 @@ Enter password: ...
 
 ```bash
  service postgresql start
- ```
- ```bash
  service postgresql status
- ```
- ```bash
  service postgresql stop
  ```
 
